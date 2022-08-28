@@ -5,8 +5,7 @@ const HomePage = styled.div`
 display: flex;
 justify-content: space-between;
 margin: 5px;
-padding: 5px;
-`
+padding: 5px;`
 
 const Picture = styled.img`
 float: right;
@@ -16,11 +15,15 @@ const Paragraph = styled.div`
 display: flex;
 flex-direction: column;`
 
+const Heading = styled.h1`
+margin: 5px;
+padding: 5px;`
+
 const Home = () => {
 
     return (
         <div>
-            <h1>Home Page</h1>
+            <Heading>Home Page</Heading>
             <HomePage>
             <Paragraph>
                 <p>adtfbdfbsfbsfbfbfbfb</p>
