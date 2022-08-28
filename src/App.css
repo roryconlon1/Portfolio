@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.github {
+  max-height: 200px;
+      max-width: 200px;
+      object-fit: cover;
+}
