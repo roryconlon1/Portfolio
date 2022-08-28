@@ -64,6 +64,11 @@ function App() {
             <a class="github" href="https://github.com/roryconlon1"><Github src={require(".//images/Octicons-mark-github.svg.png")} alt="khbkhbhk"></Github></a> 
           </IndividualLink>
           </Wrapper>
+          <Wrapper>
+          <IndividualLink>
+            <a class="github" href="https://www.linkedin.com/in/rory-conlon-643128134"><Github src={require(".//images/linkdin.png")} alt="khbkhbhk"></Github></a> 
+          </IndividualLink>
+          </Wrapper>
         </ListOfLinks>
       </Footer>
     </Router>
