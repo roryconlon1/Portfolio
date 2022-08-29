@@ -4,13 +4,12 @@ import styled from 'styled-components';
 
 const Navigation = styled.ul`
 list-style-type: none;
-margin: 0;
+margin: auto;
 overflow: hidden;
 display: flex;
 justify-content: flex-end;
 background-color: #92A8D1;
-
-`
+width: device-width;`
 
 const ElementOfNav = styled.li`
 float: left;
