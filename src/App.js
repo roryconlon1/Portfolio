@@ -12,13 +12,6 @@ left: 0%;
 bottom: 0%;
 width: 100%;`
 
-const Header = styled.div`
-position: fixed;
-left: 0%;
-bottom: 0%;
-width: 100%;
-color:  black`
-
 const Github = styled.img`
 max-height: 60px;
 max-width: 200px;
@@ -57,9 +50,7 @@ padding: 0px`
 function App() {
   return (
     <Router>
-      <Header>
       <NavBar/>
-      </Header>
       <Main>
       <Routes>
           <Route path="/" element={<Home/>}/>

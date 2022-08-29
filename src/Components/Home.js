@@ -31,7 +31,7 @@ const Home = () => {
                 <p>vsvsvsvsvsdvsdvsdvdsv</p>
                 <p>sfSgvsdvsvsdvsdvsdvds</p>
             </Paragraph>
-            <Picture src={require(".//HENRIK-LARSSON-SCORES-KILMARNOCK-2000.jpeg")}></Picture>
+            {/* <Picture src={require(".//HENRIK-LARSSON-SCORES-KILMARNOCK-2000.jpeg")}></Picture> */}
             </HomePage>
         </div>
     )
