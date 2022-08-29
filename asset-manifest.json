@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d6262068.css",
-    "main.js": "/Portfolio/static/js/main.f3242621.js",
+    "main.css": "/Portfolio/static/css/main.5914ca32.css",
+    "main.js": "/Portfolio/static/js/main.f2130bee.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/FB_IMG_1638643265843.jpg": "/Portfolio/static/media/FB_IMG_1638643265843.99d0200cf306003109c8.jpg",
     "static/media/Octicons-mark-github.svg.png": "/Portfolio/static/media/Octicons-mark-github.svg.04355628679978a702ee.png",
-    "static/media/HENRIK-LARSSON-SCORES-KILMARNOCK-2000.jpeg": "/Portfolio/static/media/HENRIK-LARSSON-SCORES-KILMARNOCK-2000.8a59de9def73e372691f.jpeg",
     "index.html": "/Portfolio/index.html",
-    "main.d6262068.css.map": "/Portfolio/static/css/main.d6262068.css.map",
-    "main.f3242621.js.map": "/Portfolio/static/js/main.f3242621.js.map",
+    "main.5914ca32.css.map": "/Portfolio/static/css/main.5914ca32.css.map",
+    "main.f2130bee.js.map": "/Portfolio/static/js/main.f2130bee.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6262068.css",
-    "static/js/main.f3242621.js"
+    "static/css/main.5914ca32.css",
+    "static/js/main.f2130bee.js"
   ]
 }
