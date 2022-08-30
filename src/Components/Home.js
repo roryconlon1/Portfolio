@@ -26,11 +26,9 @@ const Home = () => {
             <Heading>Rory Conlon</Heading>
             <HomePage>
             <Paragraph>
-                <p>adtfbdfbsfbsfbfbfbfb</p>
+                <p>I am studying towards becoming a Fullstack Junior Developer at CodeClan as part of their 16 week immersive Proffesional Software Development course. </p>
                 <p>safgasrgsfsfbvsfbsfbvasfvsfvsvsv</p>
-                <p>vsvsvsvsvsdvsdvsdvdsv</p>
-                <p>sfSgvsdvsvsdvsdvsdvds</p>
-                <p>Hello there</p>
+                
             </Paragraph>
             {/* <Picture src={require(".//HENRIK-LARSSON-SCORES-KILMARNOCK-2000.jpeg")}></Picture> */}
             </HomePage>
