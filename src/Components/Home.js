@@ -23,7 +23,7 @@ const Home = () => {
 
     return (
         <div>
-            <Heading>Home Page</Heading>
+            <Heading>Rory Conlon</Heading>
             <HomePage>
             <Paragraph>
                 <p>adtfbdfbsfbsfbfbfbfb</p>
