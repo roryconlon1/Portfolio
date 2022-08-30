@@ -12,7 +12,7 @@ left: 0%;
 bottom: 0%;
 width: 100%;`
 
-const Github = styled.img`
+const Logo = styled.img`
 max-height: 60px;
 max-width: 200px;
 object-fit: cover;`
@@ -61,12 +61,12 @@ function App() {
         <ListOfLinks>
           <Wrapper>
           <IndividualLink>
-            <a class="github" href="https://github.com/roryconlon1"><Github src={require(".//images/Octicons-mark-github.svg.png")} alt="khbkhbhk"></Github></a> 
+            <a class="github" href="https://github.com/roryconlon1"><Logo src={require(".//images/Octicons-mark-github.svg.png")} alt="Github Profile"></Logo></a> 
           </IndividualLink>
           </Wrapper>
           <Wrapper>
           <IndividualLink>
-            <a class="github" href="https://www.linkedin.com/in/rory-conlon-643128134"><Github src={require(".//images/linkdin.png")} alt="khbkhbhk"></Github></a> 
+            <a class="github" href="https://www.linkedin.com/in/rory-conlon-643128134"><Logo src={require(".//images/linkdin.png")} alt="Linekdin Profile"></Logo></a> 
           </IndividualLink>
           </Wrapper>
         </ListOfLinks>
